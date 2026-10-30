@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/yamanosachi",
  "yomi": "やまのさち",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "寛政4年（1792）9月序",
+  "author": "日下部高豊",
+  "desc": "真淵門の日下部高豊の歌を、源道別が書き集めたもの。文詞の部はここに収めない。"
+ },
  "editions": [
   {
    "pid": "993380",
